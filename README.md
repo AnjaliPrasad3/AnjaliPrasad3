@@ -85,3 +85,24 @@
 ⭐ Feel free to connect and collaborate on exciting projects!
 
 📧 Email: anjaliprasadanshu@gmail.com
+
+---
+
+## 🚀 Developer Adventure
+
+You wake up on deployment day.
+
+Choose wisely:
+
+- [A] Push directly to production
+- [B] Run tests first
+- [C] Ask ChatGPT
+
+<details>
+<summary>Answer</summary>
+
+✅ B — Run tests first
+
+Your future self will thank you.
+
+</details>
