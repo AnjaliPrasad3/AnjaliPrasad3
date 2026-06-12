@@ -82,11 +82,6 @@
 📧 Email: anjaliprasadanshu@gmail.com
 
 ---
-⭐ Feel free to connect and collaborate on exciting projects!
-
-📧 Email: anjaliprasadanshu@gmail.com
-
----
 
 ## 🚀 Developer Adventure
 
