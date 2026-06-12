@@ -62,14 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnjaliPrasad3&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliPrasad3&layout=compact)
-
----
-
 ## 🏆 Achievements
 
 - Solved 400+ LeetCode Problems
