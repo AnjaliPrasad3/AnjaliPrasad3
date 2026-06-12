@@ -75,7 +75,7 @@
 
 🌐 Portfolio: https://anjali-prasad.com
 
-💼 LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/anjali-prasad-029916215/)
+💼 LinkedIn: [Anjali Prasad](https://www.linkedin.com/in/anjali-prasad-029916215/)
 
 💻 GitHub: https://github.com/AnjaliPrasad3
 
@@ -85,11 +85,3 @@
 ⭐ Feel free to connect and collaborate on exciting projects!
 
 📧 Email: anjaliprasadanshu@gmail.com
-
----
-⭐ Feel free to connect and collaborate on exciting projects!
-
-📧 Email: anjaliprasadanshu@gmail.com
-
----
-⭐ Feel free to connect and collaborate on exciting projects!
